@@ -1,0 +1,24 @@
+{
+  "entry/src/main/ets/entryability/EntryAbility.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/pages/Index.ets": [
+    "Button",
+    "Column",
+    "Row",
+    "Text",
+    "Image",
+    "Stack",
+    "GridRow",
+    "ForEach",
+    "GridCol",
+    "PanGesture",
+    "If"
+  ],
+  "entry/src/main/ets/pages/Rule.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/pages/Board.ets": [
+    "If"
+  ]
+}

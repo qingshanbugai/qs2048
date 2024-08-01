@@ -1,0 +1,104 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFE5E5E5"
+    },
+    {
+      "name": "main_background",
+      "value": "#FFE5E5E5"
+    },
+    {
+      "name": "view0",
+      "value": "#FFC7B9AC"
+    },
+    {
+      "name": "view2",
+      "value": "#FFE8DED4"
+    },
+    {
+      "name": "view4",
+      "value": "#FFE6DAC2"
+    },
+    {
+      "name": "view8",
+      "value": "#FFEDAC76"
+    },
+    {
+      "name": "view16",
+      "value": "#FFF09161"
+    },
+    {
+      "name": "view32",
+      "value": "#FFF27654"
+    },
+    {
+      "name": "view64",
+      "value": "#FFF0593C"
+    },
+    {
+      "name": "view128",
+      "value": "#FFE9C76E"
+    },
+    {
+      "name": "view256",
+      "value": "#FFE8C75E"
+    },
+    {
+      "name": "view512",
+      "value": "#FFF9A04C"
+    },
+    {
+      "name": "view1024",
+      "value": "#FFF9A04C"
+    },
+    {
+      "name": "view2048",
+      "value": "#FFF9A04C"
+    },
+    {
+      "name": "font2",
+      "value": "#FF6B6259"
+    },
+    {
+      "name": "font4",
+      "value": "#FF6C635A"
+    },
+    {
+      "name": "font8",
+      "value": "#FFF6FFFF"
+    },
+    {
+      "name": "font16",
+      "value": "#FFFFF9FF"
+    },
+    {
+      "name": "font32",
+      "value": "#FFF7FFFF"
+    },
+    {
+      "name": "font64",
+      "value": "#FFF4FEFF"
+    },
+    {
+      "name": "font128",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "font256",
+      "value": "#FFFDFCFF"
+    },
+    {
+      "name": "font512",
+      "value": "#FFF6FFFF"
+    },
+    {
+      "name": "font1024",
+      "value": "#FFF6FFFF"
+    },
+    {
+      "name": "font2048",
+      "value": "#FFF6FFFF"
+    }
+  ]
+}

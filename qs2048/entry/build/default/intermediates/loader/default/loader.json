@@ -1,0 +1,28 @@
+{
+  "modulePathMap": {
+    "entry": "/Users/qingshan/DevEcoStudioProjects/qs2048/entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "/Users/qingshan/DevEcoStudioProjects/qs2048",
+  "nodeModulesPath": "/Users/qingshan/DevEcoStudioProjects/qs2048/entry/build/default/intermediates/loader_out/default/node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "anBuildOutPut": "/Users/qingshan/DevEcoStudioProjects/qs2048/entry/build/default/intermediates/loader_out/default/an/arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "enableMap": "true",
+    "mode": "coldReload",
+    "oldMapFilePath": "/Users/qingshan/DevEcoStudioProjects/qs2048/entry/build/default/intermediates/patch/default",
+    "changedFileList": "/Users/qingshan/DevEcoStudioProjects/qs2048/entry/build/default/intermediates/patch/default/changedFileList.json",
+    "patchAbcPath": "/Users/qingshan/DevEcoStudioProjects/qs2048/entry/build/default/intermediates/patch/default/ets"
+  }
+}
